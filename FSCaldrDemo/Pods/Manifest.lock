@@ -1,0 +1,44 @@
+PODS:
+  - BSGridCollectionViewLayout (1.2.2)
+  - BSImagePicker (2.9.0):
+    - BSGridCollectionViewLayout (= 1.2.2)
+    - BSImageView (= 1.0.2)
+  - BSImageView (1.0.2)
+  - FSCalendar (2.8.0)
+  - GPUImage (0.1.7)
+  - iOSPhotoEditor (0.6)
+  - WXWaveView (1.0.1)
+  - YXWaveView (0.5.0)
+
+DEPENDENCIES:
+  - BSImagePicker (~> 2.8)
+  - FSCalendar
+  - GPUImage
+  - iOSPhotoEditor
+  - WXWaveView
+  - YXWaveView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BSGridCollectionViewLayout
+    - BSImagePicker
+    - BSImageView
+    - FSCalendar
+    - GPUImage
+    - iOSPhotoEditor
+    - WXWaveView
+    - YXWaveView
+
+SPEC CHECKSUMS:
+  BSGridCollectionViewLayout: 3e6f23b3a2b4f0ca9afae09ca01389d1057f7b32
+  BSImagePicker: 553707de1adaad42eac252e0b84d20dbdba83fe9
+  BSImageView: ab22ff8cae61f1ae17a3c9efeeb216af3cf84a09
+  FSCalendar: 3a5ed3636e2ba1b83ebebfcf0c2603105a6f5efe
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  iOSPhotoEditor: d597c2797033bb06e2a705560ae748136c8ac2ea
+  WXWaveView: f8424284812536a3842bc5dd9afb943e53e911a8
+  YXWaveView: 3570d7244b08effd077a5c63b0693aa44b7cd369
+
+PODFILE CHECKSUM: 45bb0e85f809a53802c46a4b93737481524ad694
+
+COCOAPODS: 1.6.1

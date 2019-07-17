@@ -1,0 +1,6 @@
+framework module Pods_FSCaldrDemoUITests {
+  umbrella header "Pods-FSCaldrDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
